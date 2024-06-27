@@ -1,5 +1,5 @@
 # Drag-and-Drop
-Drag and Drop using HTML, CSS and JavaScript
+Drag and Drop dynamically using HTML, CSS and JavaScript
 
 
 ![drag and drop screenshot 1](https://github.com/daleskinz/Drag-and-Drop/assets/141495352/8d57c2e8-cb54-4c36-920d-a6626f71c4e9)
